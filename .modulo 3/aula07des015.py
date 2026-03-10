@@ -1,0 +1,6 @@
+nome = input('Olá, muito bem vindo! Qual seu nome?: ')
+print(f'É um prazer te conhecer {nome}!')
+dias = float(input('Quanto dias você deseja alugar?: '))
+km = float(input('Quantos km você vai rodar?: '))
+valor = (dias * 60) + (km * 0.15)
+print(f'O valor total a pagar é de: R${valor:.2f}')
