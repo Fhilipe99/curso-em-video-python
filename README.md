@@ -60,7 +60,8 @@ Estou seguindo uma trilha de 18 meses que passa por fundamentos de Python, backe
 - [x] Módulo 2 — Variáveis e tipos de dados
 - [x] Módulo 3 — Operadores e expressões
 - [x] Módulo 4 — Entrada de dados
-- [ ] Módulo 5 — Condicionais *(em andamento)*
+- [x] Módulo 5 — Condicionais 
+- [x] Módulo 6 - Cores no terminal
 
 ---
 
