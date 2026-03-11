@@ -6,15 +6,15 @@ Este repositório faz parte da minha jornada de aprendizado com o objetivo de me
 
 ---
 
-## 📚 Conteúdo por Módulo
+## 📚 Conteúdo por Módulos
 
-| Módulo | Conteúdo | Exercícios |
-|--------|----------|------------|
-| Módulo 2 | Introdução ao Python, variáveis e tipos de dados | ex000, ex001, ex002 |
-| Módulo 3 | Operadores e expressões | aula06 ao aula07des015 |
-| Módulo 4 | Entrada de dados e operadores | aula008 ao aula009des027 |
-| Módulo 5 | Condicionais (if, elif, else) | aula10, aula10des28 |
-
+| Módulo   | Conteúdo                                         | Exercícios               |
+|----------|--------------------------------------------------|--------------------------|
+| Módulo 2 | Introdução ao Python, variáveis e tipos de dados | ex000, ex001, ex002      |
+| Módulo 3 | Operadores e expressões                          | aula06 ao aula07des015   |
+| Módulo 4 | Entrada de dados e operadores                    | aula008 ao aula009des027 |
+| Módulo 5 | Condicionais (if, elif, else)                    | aula10, aula10des28      |
+| Módulo 6 | Cores no terminal                                | aula 11                  |
 ---
 
 ## 🛠️ Tecnologias
@@ -50,7 +50,7 @@ Olá! Sou **Fhilipe Vendrame**, estudante de Python com o objetivo de me tornar 
 
 Estou seguindo uma trilha de 18 meses que passa por fundamentos de Python, backend com FastAPI, integração com LLMs, RAG e agentes de IA.
 
-- 💼 [LinkedIn](www.linkedin.com/in/fhilipe-batistioli-vendrame-34b8a3272) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/fhilipe-batistioli-vendrame-34b8a3272/) 
 - 🐙 [GitHub](https://github.com/Fhilipe99)
 
 ---
